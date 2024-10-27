@@ -2,6 +2,7 @@
 
 
 This project implements a solution to the classic **Bounded Buffer Problem** also known as Producer Consumer Problem using **POSIX threads**, **semaphores**, and **mutexes** in C. The producer and consumer threads share a fixed -size buffer, with synchronization achieved through semaphores and mutexes to prevent race conditions.the infinite loop to simulate a server -client scenario, the consumer consumes the items in Last in First out manner (simulating a stack ).
+![Screenshot 2024-10-27 235349](https://github.com/user-attachments/assets/7ed227d8-dde4-47d3-9b58-a75c14c9db26)
 
 ## Features
 
